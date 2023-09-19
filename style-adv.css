@@ -59,7 +59,7 @@
 }
 
 .pic6 {
-    grid-area: 3 / 3 / span 1/ span 2;
+grid-area: 3 / 3 / span 1/ span 2;
     background-image: url("pexels-yana-nadolinska-12101105.jpg");
     background-position: 50%;
 }
